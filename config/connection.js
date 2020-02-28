@@ -5,7 +5,7 @@ let connection = mysql.createConnection({
     port: 3306,
     user: "root",
     password: process.env.MYSQL_PASSWORD,
-    database: "burgers_db"
+    database: "eat_da_burger_db"
 });
 
 connection.connect(function (err) {
