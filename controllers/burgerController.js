@@ -14,7 +14,7 @@ router.get("/", function (req, res) {
 router.post("/api/burger", function (req, res) {
     console.log(req.body.name);
     burger.add([
-        "burger_name", "devoured"
+        "name", "devoured"
     ], [
         req.body.name, req.body.devoured
     ], function (result) {
