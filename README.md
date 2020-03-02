@@ -6,9 +6,9 @@ This application is a restaurant landing page that allows a user to see which bu
 ​
 ### Links
 
-Github repository: https://github.com/tecain13/Rather_Be_Eating_a_Burger
+Github repository: https://github.com/dawson-hamilton/burger-tracker
 
-Heroku site: https://warm-basin-75896.herokuapp.com/
+Heroku site: https://whispering-hollows-50296.herokuapp.com/
 
 ​
 
